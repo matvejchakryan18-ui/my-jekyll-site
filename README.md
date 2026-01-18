@@ -4,5 +4,5 @@ I am Izergil,born Matvey Chakryan,a seeker of beauty in its fading breath. Fro
 
 Homeworks
 
-Portfolio
-Projects
+- [Character](character.html)
+- [Portfolio](https://cz.pinterest.com/matvejchakryan18/)
