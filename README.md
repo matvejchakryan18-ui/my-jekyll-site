@@ -1,4 +1,4 @@
-# my-jekyll-site
+# My Website
 
 I am Izergil,
 born Matvey Chakryan,
