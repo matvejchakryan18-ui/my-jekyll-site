@@ -19,5 +19,5 @@ Homeworks
 
 # Alt Text
 
-(https://github.com/matvejchakryan18-ui/my-jekyll-site/blob/main/Bespoke-character.pdf)
+![Character preview](https://github.com/matvejchakryan18-ui/my-jekyll-site/blob/main/Bespoke-character.pdf)
   
