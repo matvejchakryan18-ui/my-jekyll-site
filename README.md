@@ -17,11 +17,9 @@ Homeworks
 - [Character](character.html)
 - [Portfolio](https://cz.pinterest.com/matvejchakryan18/)
 
-# Alt Text
+# Bespoke-character
 
-![Character preview](https://github.com/matvejchakryan18-ui/my-jekyll-site/blob/main/Bespoke-character.pdf)
+I completed this bespoke-character on my own.
 
-<p align="center">
-  <img src="bespoke-character.png" alt="Alt text description" width="800">
-</p>
-  
+[Bespoke-character.pdf](https://github.com/user-attachments/files/24888739/Bespoke-character.pdf)
+
