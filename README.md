@@ -20,4 +20,8 @@ Homeworks
 # Alt Text
 
 ![Character preview](https://github.com/matvejchakryan18-ui/my-jekyll-site/blob/main/Bespoke-character.pdf)
+
+<p align="center">
+  <img src="bespoke-character.png" alt="Alt text description" width="800">
+</p>
   
