@@ -25,6 +25,12 @@ I completed this bespoke-character on my own.
 
 # Alt text
 
-This mz bespoke charcater in practice.
+This my bespoke charcater in practice.
 
 <img src="Machen edice.png" alt="Alt text design">
+
+# Business card
+
+Business card for the fictional brand.
+
+<img src="Yourpearl.png" alt="Business card design">
