@@ -21,5 +21,4 @@ Homeworks
 
 I completed this bespoke-character on my own.
 
-[Bespoke-character.pdf](https://github.com/user-attachments/files/24888739/Bespoke-character.pdf)
-
+<img src="Bespoke-character.png" alt="Bespoke character design">
