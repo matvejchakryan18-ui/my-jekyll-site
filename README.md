@@ -22,3 +22,9 @@ Homeworks
 I completed this bespoke-character on my own.
 
 <img src="Bespoke-character.png" alt="Bespoke character design">
+
+# Alt text
+
+This mz bespoke charcater in practice.
+
+<img src="Machen edice.png" alt="Alt text design">
