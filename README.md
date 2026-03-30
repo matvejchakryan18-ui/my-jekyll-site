@@ -36,5 +36,4 @@ Business card for the fictional brand.
 <img src="Yourpearl.png" alt="Business card design">
 
 # Portfolio
-
-- [Portfolio] 
+- [Portfolio]([https://cz.pinterest.com/matvejchakryan18](https://github.com/matvejchakryan18-ui/my-jekyll-site/blob/main/Matvey%20Chakryan_Izergil%20portfolio%201%20(2).pdf)/)
