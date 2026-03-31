@@ -63,6 +63,9 @@ Reflection on the final result
 
 The main thing this work gave me was an understanding of what personal branding is. What it means to shape certain impression so that society can relate to it. I also learned more about typeface deformations and the principles of layout when working on covers. On the other hand I could work more on shadows and object’s depth. All this allowed to transfer these principles to my future projects.
 
+
+
+
 -FAMUFEST 40-
 
 Point of departure
