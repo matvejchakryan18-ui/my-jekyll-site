@@ -43,7 +43,7 @@ From Imitation to Identity
 
 My entry into the phonk design space began with imitation. I studied the visual language of drift phonk artists such as KSLV to understand the foundations of the genre. These works became a starting point, but also revealed the need for a more distinct and personal direction.
 
-Defining th e Audience
+Defining the Audience
 
 The project targets the esoteric underground segment of the phonk community. This audience is drawn to occult symbolism, obscurity, and nostalgic VHS aesthetics. Understanding this context allowed me to connect personal interests with a specific visual culture.
 
