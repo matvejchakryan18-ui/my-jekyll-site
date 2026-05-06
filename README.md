@@ -35,6 +35,100 @@ Business card for the fictional brand.
 
 <img src="Yourpearl.png" alt="Business card design">
 
+# Dr Pepper packaging redesign thesis 
+
+1. Reasons for Packaging Redesign
+
+The redesigned Dr Pepper packaging aims to address the evolving expectations of consumers under 40 — a group that values authenticity, visual balance, and subtle modernity over loud, disruptive design. While Dr Pepper has a long tradition and a loyal following, its brand language needed a refresh that would connect emotionally with younger adults who appreciate design sophistication but still respect heritage.
+
+Key motivations:
+
+Modern relevance: Consumers under 40 tend to favor clean, minimal, and tasteful aesthetics that feel “designed,” not “decorated.”
+Balance of tradition and freshness: The redesign preserves Dr Pepper’s recognizable identity while updating visual elements to feel contemporary.
+Tactile experience: Since the campaign relies on printed materials, the packaging needed to visually and physically communicate quality through texture, composition, and contrast — aspects best appreciated in print.
+Visual differentiation: The subtle pattern provides recognizability in a crowded retail environment without alienating existing consumers.
+
+2. Concept Overview — “Patterned Background”
+
+The new Dr Pepper design uses a subtle patterned background built around the brand’s signature maroon color palette. The intention is to retain brand familiarity while adding depth and texture that appeal to the modern viewer’s sense of style.
+
+Design Objectives
+To communicate continuity of heritage without appearing outdated.
+To project a calm confidence rather than an aggressive, youthful “energy drink” aesthetic.
+To create visual depth that translates well in print, allowing the design to catch attention through texture and contrast rather than bright color.
+
+3. Visual Elements and Justification
+   
+a. Colors
+Primary Color: Deep maroon/red — maintaining Dr Pepper’s iconic identity.
+Justification: Red evokes passion, flavor intensity, and brand recognition. Using a darker, mature maroon tone gives it sophistication suitable for adult audiences.
+Accent Tones: Slightly lighter or darker variations of the main red to create a tone-on-tone pattern.
+Reason: The pattern feels subtle, not distracting, reinforcing elegance and depth when viewed on shelves or in printed advertisements.
+Contrast Color: White or light beige for typography.
+Reason: Ensures high legibility while maintaining visual balance and neutrality.
+b. Font
+Primary Typeface: A refined, sans-serif typeface with smooth, rounded edges.
+Reason: Sans-serif fonts appeal to a younger demographic and convey modernity, while rounded terminals keep the friendly and approachable tone associated with Dr Pepper.
+Logo Treatment: The original Dr Pepper logo remains unchanged.
+Reason: Preserves brand equity and instant recognition while the rest of the layout provides modern framing.
+c. Composition
+Central Focus: Dr Pepper logo placed prominently in the middle or upper third.
+Reason: Reinforces immediate brand identification and hierarchy of information.
+Background Pattern: Repeating but faint geometric or abstract pepper-shaped elements.
+Reason: Provides brand storytelling (the “pepper” motif) while remaining aesthetically minimal.
+Whitespace: Generous negative space around the logo.
+Reason: Creates visual calmness, associated with premium and confident brands — a subtle sign of quality.
+d. Texture
+For printed materials, a matte background with a gloss finish on the logo and pattern.
+Reason: Enhances tactile experience, helping the product “feel” high quality even before tasting.
+Practical benefit: Makes the packaging stand out physically on the shelf under store lighting.
+
+5. Promotional Materials (Print-Only Strategy)
+
+Since the campaign excludes digital or online components, the focus is on physical visibility and emotional resonance through tangible experiences.
+
+a. Point-of-Sale Displays
+Printed posters, standees, and shelf wraps with the new design motif.
+Feature the slogan “Classic Taste, Modern Design.”
+Purpose: Reinforce continuity and attract visual attention in retail spaces.
+b. Magazine Advertisements
+Full-page, high-contrast visuals emphasizing the pattern texture and maroon tone.
+
+Accompanied by short, confident text lines:
+
+“A new look for a taste that never changed.”
+“Tradition tastes better when it looks this good.”
+
+Tone: Calm, premium, confident — no exaggeration, just refined assurance.
+c. Limited-Edition Print Campaigns
+Collaborations with art and design magazines that highlight packaging innovation.
+Use close-up photography of the texture and pattern to visually communicate craftsmanship.
+d. Posters and Outdoor Advertising
+Simple compositions with large logo placement and minimal text.
+Consistent with packaging to ensure immediate brand recognition.
+Focus on color continuity — deep maroon as the anchor tone across all printed visuals.
+5. Tone of Voice
+Tone: Calm, sophisticated, and confident.
+Personality: Mature, authentic, and assured — not youthful in a trendy way but timeless in appeal.
+Why: The under-40 audience appreciates authenticity over artificial excitement. The tone should respect their intelligence and visual literacy, aligning with brands that “speak softly but carry weight.”
+
+Example messaging lines:
+
+“Some things never need to shout.”
+“Modern by design. Classic by taste.”
+“The same 23 flavors — just refined.”
+
+6. Inspiration and Analysis
+   
+a. Inspiration
+Modern minimalist design trends: Brands like Coca-Cola’s “simplified classic” packaging and Starbucks Reserve’s elegant minimalism demonstrate how subtle redesigns can refresh heritage brands.
+Mid-century visual structure: Simple grid layouts, restrained color usage, and geometric motifs inspired the balance between nostalgia and modernity.
+Tactile luxury branding: Premium beverage packaging (e.g., craft beers, tonic waters) often uses matte textures and fine patterns to convey sophistication.
+b. Market Analysis
+Consumer Insight: Younger audiences perceive subtle design as smarter and more premium.
+Competitor Benchmarking: Competing soft drink brands often rely on bright, youthful energy. Dr Pepper’s refined tone can distinguish it as the “thinking person’s soft drink” — maintaining approachability but appealing to visual taste and maturity.
+Cultural Context: The under-40 demographic grew up in the digital era but values physical authenticity — they notice print design quality, texture, and visual storytelling. This print-focused strategy leverages that sensibility.
+
 # Portfolio
 
 -ABRAXAS-
