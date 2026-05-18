@@ -17,6 +17,12 @@ Homeworks
 - [Self-presentation](https://github.com/matvejchakryan18-ui/my-jekyll-site/blob/main/First%20impression%20(1).pdf)
 - [Portfolio](https://cz.pinterest.com/matvejchakryan18/)
 
+  What I leraned
+
+  During this project, I learned how photographic covers in the phonk music genre strongly influence the emotions and expectations of listeners before they even hear the song itself. Most phonk covers use dark colors, urban environments, old cars, distorted photography, or nostalgic imagery inspired by 1990s Memphis rap culture. These visual elements create a feeling of mystery, rebellion, aggression, or nostalgia, which prepares the listener for the atmosphere of the music. I realized that album art is not only decoration, but also an important psychological tool that shapes the identity of the genre and affects how people emotionally connect to it.
+
+I also learned that listeners often associate certain visual styles with specific moods and lifestyles. For example, grainy black-and-white photography or neon-lit city scenes can make the music feel more intense, lonely, or underground. The photographic aesthetic helps phonk artists build a recognizable image and community around their music. Through this topic, I better understood how visual communication and graphic design influence human perception, especially in digital music culture where cover art is usually the first thing listeners see on streaming platforms or social media.
+
 # Bespoke-character
 
 I completed this bespoke-character on my own.
